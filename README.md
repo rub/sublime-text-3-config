@@ -37,3 +37,44 @@ To install a package hold `⌘` + `Shift` + `P` and type install, then start typ
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview) - Markdown files preview and build in your web browser.
 * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter.
 * [WordCount](https://packagecontrol.io/packages/WordCount) - Provides a real-time Word Count and character count in the status-bar.
+
+Settings - User
+---------------
+
+Place the below custom user settings into Settings - User, accessible via `SublimeText` → `Preferences`→ `Settings - User`, or by holding `⌘` + `,` + `.`.
+
+```json
+{
+  "auto_complete_commit_on_tab": true,
+  "auto_complete_with_fields": true,
+  "bold_folder_labels": true,
+  "caret_extra_bottom": 2,
+  "caret_extra_top": 2,
+  "caret_extra_width": 2,
+  "caret_style": "solid",
+  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+  "draw_minimap_border": true,
+  "ensure_newline_at_eof_on_save": true,
+  "font_size": 14,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "CSS",
+    "Vintage"
+  ],
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "line_padding_bottom": 2,
+  "line_padding_top": 2,
+  "match_brackets_angle": true,
+  "save_on_focus_lost": true,
+  "tab_size": 2,
+  "theme": "Spacegray.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
+
+```
