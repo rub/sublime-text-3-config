@@ -89,3 +89,13 @@ Each of the following configuration snippets refers to a specific package, acces
   "default_root": "current",
 }
 ```
+
+Launch Sublime Text 3 from the command line
+-------------------------------------------
+
+From your terminal, run:
+`ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime`
+
+Then run `sublime --help` to show the helper.
+
+Run `sublime .` to open the entire current directory.
