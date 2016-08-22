@@ -41,7 +41,7 @@ To install a package hold `⌘` + `Shift` + `P` and type install, then start typ
 Settings - User
 ---------------
 
-Place the below custom user settings into Settings - User, accessible via `SublimeText` → `Preferences`→ `Settings - User`, or by holding `⌘` + `,` + `.`.
+Place the below custom user settings into Settings - User, accessible via `SublimeText` → `Preferences`→ `Settings - User`, or by holding `⌘` + `,`.
 
 ```json
 {
