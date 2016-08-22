@@ -1,7 +1,7 @@
 Sublime Text 3 Config
 =====================
 
-This is my Sublime Text 3 configuration.
+This is my Sublime Text 3 configuration for front end development.
 
 Install Package Control
 -----------------------
@@ -11,7 +11,7 @@ Install [Package Control](https://packagecontrol.io/) for easy package managemen
 Customize the UI
 ----------------
 
-Install [Spacegray](https://github.com/kkga/spacegray) theme to redifine the whole UI and add a new syntax highlighting.
+Install [Seti_UI](https://packagecontrol.io/packages/Seti_UI) and [Spacegray](https://github.com/kkga/spacegray) themes to redifine the whole UI and add a new syntax highlighting.
 
 Install the packages
 --------------------
@@ -73,8 +73,7 @@ Place the below custom user settings into Settings - User, accessible via `Subli
   "match_brackets_angle": true,
   "save_on_focus_lost": true,
   "tab_size": 2,
-  "theme": "Spacegray.sublime-theme",
+  "theme": "Seti.sublime-theme",
   "translate_tabs_to_spaces": true
 }
-
 ```
