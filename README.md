@@ -77,3 +77,15 @@ Place the below custom user settings into Settings - User, accessible via `Subli
   "translate_tabs_to_spaces": true
 }
 ```
+
+Packages Settings
+-----------------
+
+Each of the following configuration snippets refers to a specific package, accessible via `Sublime Text` → `Preferences` → `Package Settings` → *`package name`* → `Settings - User`.
+
+##### AdvancedNewFile
+```json
+{
+  "default_root": "current",
+}
+```
