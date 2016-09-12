@@ -40,8 +40,8 @@ Keys | Description
 ⌘+⌃+↑ | Move line (or selection) up
 ⌘+⌃+↓ | Move line (or selection) down
 ⌘+⌃+G | Select all occurrences of current word or selection (for multiple editings)
-⌘+⇧+↑ | Add extra cursor on the line above
-⌘+⇧+↓ | Add extra cursor on the line below
+⌃+⇧+↑ | Add extra cursor on the line above
+⌃+⇧+↓ | Add extra cursor on the line below
 ⌃+M | Jump to closing bracket (repeat to jump to opening bracket)
 ⌃+⇧+M | Select all content of the current brackets
 
