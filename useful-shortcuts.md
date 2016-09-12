@@ -95,7 +95,7 @@ Keys | Description
 ⌘+↓ | Scroll to the end of page. ⌘+↑ scroll to the start of page
 
 
-Find/Replace
+Tabs
 -------
 
 Keys | Description
@@ -106,9 +106,10 @@ Keys | Description
 ⌘+number | Jump to tab in current group where number is 1-9. Type 0 to jump to 10th tab.
 ⌃+Tab | Cycle forward through recent tabs
 ⌃+⇧+Tab | Cycle backward through recent tabs
+⌘+number | Select tab
 
 
-Tabs/split window
+Split window
 -------
 
 Keys | Description
@@ -120,7 +121,6 @@ Keys | Description
 ⌘+⌥+5 | Set view to grid (four groups)
 ⌃+number | Jump to group where number is 1-4
 ⌃+⇧+number | Move current file to specified group where number is 1-4
-⌘+number | Select tab
 
 
 Text manipulation
