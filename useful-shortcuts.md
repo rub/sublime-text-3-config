@@ -15,6 +15,8 @@ Keys | Description
 ⌘+⇧+↩ | Insert line before
 ⌘+L | Select line - repeat to select next lines
 ⌘+D | Select word - repeat to select next occurrences for multiple editings
+⌃+⇧+↓ | Select from cursor to end of line
+⌃+⇧+↑ | Select from cursor to start of line
 ⌘+KK | Delete from cursor to end of line
 ⌘+K+⌫ | Delete from cursor to start of line
 ⌃+] | Indent current line(s)
@@ -93,6 +95,7 @@ Keys | Description
 ---- | -----------
 ⌃+↓ | Scroll down one page. ⌃+↑ to scroll up one page 
 ⌘+↓ | Scroll to the end of page. ⌘+↑ scroll to the start of page
+⌃+⌥+↓ | Scroll down without moving the cursor. ⌃+⌥+↑ to scroll up.
 
 
 Tabs
